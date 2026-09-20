@@ -1,0 +1,19 @@
+Genrative AI
+LLMS
+Evolution of Gen AI
+1) . Research phase : Research papers were written 
+2) . BEdrock Models/BEdrock phase: basic models were made using the reserch papers.
+3) . Providers: openai, meta, google, mistral . big companies came to make llm 
+4) . Application Developers: Where We LIE!!
+
+2 Types of Perspective :
+a) User Perspective ---> we are basically using the api keys and minding our own buisness
+b) Builders Perspective ----> where you make your own api keys 
+
+LANFCHAIN: its a framework which helps you to interact with the llms model or to use them . 
+
+Parameters that are commonly used to make 
+-> temperature 
+-> maax tokens 
+
+hugging face -> repo of open source llm model 
