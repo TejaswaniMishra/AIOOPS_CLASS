@@ -1,0 +1,2 @@
+what is datapipeline 
+1 source (raw logs , events, sensors) 2 ingest (collect & queue) 3 Process(Transform & enrich ) 4 Ai/Action (Model -> Alert) 
