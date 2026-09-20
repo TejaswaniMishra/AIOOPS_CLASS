@@ -1,0 +1,9 @@
+server,cpu,memory,error
+server1,45,60,2
+server2,92,70,4
+server3,92,85,15
+server4,92,85,15
+server5,92,85,15
+server6,92,85,15
+server7,92,90,15
+server8,61,62,3
